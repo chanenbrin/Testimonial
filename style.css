@@ -164,7 +164,7 @@ img {
   }
 }
 
-@media (min-width: 375px) and (max-width: 420px) {
+@media screen and (max-width: 420px) {
   .grid-container {
     width: 320px;
     display: grid;
